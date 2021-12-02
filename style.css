@@ -27,6 +27,11 @@
     background-image: linear-gradient(90deg, orange, rgb(233, 233, 188));
    
 }
+
+.navbar-nav{
+    padding-left: 500px;
+    
+}
 .see-all{
     color: rgb(252, 146, 8);
 }
@@ -39,4 +44,46 @@
     background-color: white;
     border: none;
     padding-bottom: 20px;
+}
+.line{
+  text-align: center;
+}
+.cat{
+    text-align: center;
+    
+}
+.categories-line{
+    padding-bottom: 10px;
+    border-bottom: 8px solid rgb(255, 136, 0);
+    line-height: 20px;
+    border-radius: 5px;
+    
+}
+
+
+.bag-border{
+    margin-right: 30px;
+    width: 200px;
+    padding: 10px 10px;
+    box-shadow: 0px 0px 5px 5px lightgray;
+    border-radius: 10px 50px;
+    
+}
+.beauty-border{
+    width: 200px;
+    padding: 20px 20px;
+    box-shadow: 0px 0px 5px 5px lightgray;
+    border-radius: 50px 10px;
+}
+.shoe-border{
+    width: 200px;
+    padding: 10px 10px;
+    box-shadow: 0px 0px 5px 5px lightgray;
+    border-radius: 50px 10px;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.pale-img{
+    height: 300px;
+    width: 450px;
 }
